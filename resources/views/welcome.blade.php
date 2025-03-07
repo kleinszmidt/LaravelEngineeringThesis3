@@ -28,7 +28,7 @@
         <!-- Główna zawartość -->
         <div class="row">
             <div class="col-md-6">
-                <img src="https://www.w3schools.com/html/img_girl.jpg" alt="Przykładowy obrazek" class="img-fluid rounded">
+                <img src="https://cdn.pixabay.com/photo/2023/11/17/16/54/boat-8394639_1280.jpg" alt="Przykładowy obrazek" class="img-fluid rounded">
             </div>
             <div class="col-md-6 d-flex flex-column justify-content-center">
                 <button class="btn btn-primary custom-button" onclick="alert('Przycisk 1 został kliknięty!')">Przycisk 1</button>
